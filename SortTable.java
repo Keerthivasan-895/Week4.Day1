@@ -44,7 +44,7 @@ public class SortTable {
 			list2.add(listValues2);
 		}
 	    Collections.sort(list2);
-	     if (addList.equals(list2)==true) {
+	     if (addList.equals(list2)) {
 	    	 System.out.println("List Values get matched");
 			
 		} else {
